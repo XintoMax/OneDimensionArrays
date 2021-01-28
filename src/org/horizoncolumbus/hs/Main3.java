@@ -2,6 +2,8 @@ package org.horizoncolumbus.hs;
 
 import java.util.Scanner;
 
+// 1/26/2021
+
 public class Main3 {
 
     public static void main(String[] args) {
